@@ -1,0 +1,35 @@
+*{
+    font-family: 'Changa One', cursive;
+
+}
+body{
+    background-color: rgb(42, 41, 33)!important;
+}
+
+.ffa{
+    font-family: 'ABeeZee', sans-serif;
+
+}
+
+span{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    transition: .4s;
+    cursor: pointer;
+
+}
+.iconTog{
+    transform: rotate(180deg);
+}
+
+p{
+    transition: 1s;
+    overflow: hidden;
+}
+
+img{
+    transition: 1s;
+    overflow: hidden;
+    object-fit: cover;
+}
